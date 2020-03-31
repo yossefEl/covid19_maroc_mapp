@@ -1,16 +1,10 @@
-# corona_fighter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Project info
+this project called COVID19 MAROC and its under Creative Commons (CC) license
+this app is for providing realtime statistics about corona virus in Morocco
+# To do
+[x] essentials coded
+[x] version 1: Firebase
+[] change from Database to API 
+[] expand to Mutli Country
+# version2 details 
+API to use : https://github.com/mohssineAboutaj/moroccovid-19-api
