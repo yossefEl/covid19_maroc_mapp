@@ -8,3 +8,11 @@ this project called COVID19 MAROC and its under Creative Commons (CC) license
 - [ ] Expand the app to Mutli Country<br>
 # version2 details 
 API to use : https://github.com/mohssineAboutaj/moroccovid-19-api
+
+# App screnshots
+here is some screenshots from the old version
+![Sceenshot 1](screens/screen1.png)
+![Sceenshot 1](screens/screen2.png)
+![Sceenshot 1](screens/screen3.png)
+![Sceenshot 1](screens/screen4.png)
+![Sceenshot 1](screens/screen5.png)
