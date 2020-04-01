@@ -11,8 +11,8 @@ API to use : https://github.com/mohssineAboutaj/moroccovid-19-api
 
 # App screnshots
 here is some screenshots from the old version<br>
-<img src='screens/screen1.png' width='200px'>
-<img src='screens/screen1.png' width='200px'>
-<img src='screens/screen1.png' width='200px'>
-<img src='screens/screen1.png' width='200px'>
-<img src='screens/screen1.png' width='200px'>
+<img src='screens/screen1.png' width='200px' style='padding:16px'>
+<img src='screens/screen2.png' width='200px' style='padding:16px'>
+<img src='screens/screen3.png' width='200px' style='padding:16px'>
+<img src='screens/screen4.png' width='200px' style='padding:16px'>
+<img src='screens/screen5.png' width='200px' style='padding:16px'>
